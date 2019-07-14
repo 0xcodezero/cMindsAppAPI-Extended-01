@@ -28,6 +28,18 @@
 			"genderMale": true
 		}
 	],
+	"consultationCounts": [
+			{
+				"familyId": 1,
+				"available" : 1,
+				"total" : 3
+			},
+			{
+				"familyId": 2,
+				"available" : 2,
+				"total" : 2
+			}
+	],
 	"consultations": [{
 			"id": 2,
 			"question": "اعاني من استيقاظ طفلي ليلا خلال نومه عدة مرات، حاولت بعدة طرق حل المشكلة ولكنه يظل يبكي ولا يهدأ حتي مع توفير طعام له فقط اننظللنا نحمله ونتحرك به في حتى ينام ثانية",

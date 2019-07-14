@@ -83,7 +83,7 @@
 			}
 		},
 		{
-			"id": 5,
+			"id": 6,
 			"question": "استشارة ثانية لا تزيد عن ٢٨٠ حرف مثل تويتر",
 			"date": 1562042431,
 			"status": "answered",
@@ -105,7 +105,7 @@
 			}
 		},
 		{
-			"id": 6,
+			"id": 7,
 			"question": "اسشتارة مجاوب عليها وتم الرد العكسي بال Feedback",
 			"date": 1562042431,
 			"status": "completed",
@@ -134,9 +134,143 @@
 			"statisfaction": true
 		},
 		{
-			"id": 2,
+			"id": 3,
 			"consultationId": 4,
 			"statisfaction": false
 		}
+	],
+	"statistics":[
+		{
+			"kid" : {
+				"id": 2,
+				"name": "محمد",
+				"familyId": 20,
+				"birthYear": 2013,
+				"genderMale": true
+			},
+			"totalPeriod" : {
+				"activities" : 25,
+				"done_activities" : 15,
+				"success_rate" : 80.3,
+				"areas":[
+					{
+						"id": 2,
+						"activities" : 25,
+						"done_activities" : 15,
+						"success_rate" : 40.0,
+						"categories": [{
+								"id": 1,
+								"activities" : 10,
+								"done_activities" : 6
+							},
+							{
+								"id": 2,
+								"activities" : 4,
+								"done_activities" : 1
+							},
+							{
+								"id": 3,
+								"activities" : 6,
+								"done_activities" : 0
+							},
+							{
+								"id": 4,
+								"activities" : 5,
+								"done_activities" : 3
+							}
+						]
+					},
+					{
+						"id": 4,
+						"activities" : 14,
+						"done_activities" : 12,
+						"success_rate" : 40.3,
+						"categories": [{
+								"id": 1,
+								"activities" : 5,
+								"done_activities" : 2
+							},
+							{
+								"id": 2,
+								"activities" : 3,
+								"done_activities" : 1
+							},
+							{
+								"id": 3,
+								"activities" : 0,
+								"done_activities" : 0
+							},
+							{
+								"id": 4,
+								"activities" : 6,
+								"done_activities" : 6
+							}
+						]
+					}
+				]
+			},
+			"activeMonth" : {
+				"activities" : 7,
+				"done_activities" : 2,
+				"success_rate" : 20.4,
+				"areas":[
+					{
+						"id": 2,
+						"activities" : 8,
+						"done_activities" : 6,
+						"success_rate" : 20.0,
+						"categories": [{
+								"id": 1,
+								"activities" : 3,
+								"done_activities" : 2
+							},
+							{
+								"id": 2,
+								"activities" : 4,
+								"done_activities" : 1
+							},
+							{
+								"id": 3,
+								"activities" : 4,
+								"done_activities" : 1
+							},
+							{
+								"id": 4,
+								"activities" : 2,
+								"done_activities" : 0
+							}
+						]
+					},
+					{
+						"id": 4,
+						"activities" : 4,
+						"done_activities" : 1,
+						"success_rate" : 40.3,
+						"categories": [{
+								"id": 1,
+								"activities" : 3,
+								"done_activities" : 0
+							},
+							{
+								"id": 2,
+								"activities" : 1,
+								"done_activities" : 1
+							},
+							{
+								"id": 3,
+								"activities" : 0,
+								"done_activities" : 0
+							},
+							{
+								"id": 4,
+								"activities" : 0,
+								"done_activities" : 0
+							}
+						]
+					}
+				]
+			}
+		}
 	]
+
 }

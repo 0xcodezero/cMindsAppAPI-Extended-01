@@ -31,12 +31,12 @@
 	"consultationCounts": [
 			{
 				"familyId": 1,
-				"available" : 1,
+				"used" : 1,
 				"total" : 3
 			},
 			{
 				"familyId": 2,
-				"available" : 2,
+				"used" : 2,
 				"total" : 2
 			}
 	],

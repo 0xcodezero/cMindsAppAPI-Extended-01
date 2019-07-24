@@ -87,6 +87,12 @@
 			},
 			"reply": {
 				"id": 2,
+				"consultant":{
+					"id": 2,
+					"name": "د شيماء قهوجي",
+					"bio": "دكتورة تعليم احتياجات خاصة",
+					"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+				},
 				"message": "رد المستشار الجبار",
 				"media": {
 					"type": "audio",
@@ -109,6 +115,12 @@
 			},
 			"reply": {
 				"id": 2,
+				"consultant":{
+					"id": 2,
+					"name": "د شيماء قهوجي",
+					"bio": "دكتورة تعليم احتياجات خاصة",
+					"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+				},
 				"message": "رد المستشار الجبار",
 				"media": {
 					"type": "video",
@@ -131,6 +143,12 @@
 			},
 			"reply": {
 				"id": 2,
+				"consultant":{
+					"id": 1,
+					"name": "د سارة العبدالكريم",
+					"bio": "دكتورة تعليم احتياجات خاصة",
+					"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+				},
 				"message": "رد المستشار الجبار",
 				"media": {
 					"type": "audio",
